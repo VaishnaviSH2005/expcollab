@@ -4,4 +4,12 @@ main()
 int a=1,b=7,c;
 c=a+b;
 printf("result"+c);
+}//multiplication
+#inlucde<stdio.h>
+main()
+{
+int a=1,b=1,c;
+c=a*b;
+{
+printf("result"*c);
 }
